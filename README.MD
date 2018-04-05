@@ -10,4 +10,6 @@ Twitter advice: He who fights with monsters should be careful lest he thereby be
 
 ## @slightlycyborg's edit (Wednesday, April 4th, 2018):
 Twitter advice: He who fights with trolls should be careful lest he thereby become a troll.
-[@slightlycyborg tweeted the meme](./ITweetedTheMemeAndItsGithub.png)
+
+## @slightlycyborg tweeted
+[the meme](./ITweetedTheMemeAndItsGithub.png)
